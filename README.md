@@ -1,0 +1,2 @@
+# AUTOHUG
+huggingface auto space
